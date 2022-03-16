@@ -13,3 +13,14 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+data/
+fonts/
+
+*.ttf
+*.otf
+*.pdf
+*.jpg
+*.png
+*.svg
+*.xlsx
+*.json
